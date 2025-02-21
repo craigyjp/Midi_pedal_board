@@ -1,5 +1,6 @@
 #include <MIDIUSB.h>
 
+// set for 0-15 for channel 1-16
 #define MIDI_CHANNEL 0
 
 const int notePins[13] = {2, 3, 4, 5, 6, 7, 8, 9, 10, 16, 14, 15, 18};
